@@ -1,0 +1,13 @@
+/* custom.css */
+.room-name:first-child {
+    content: 'Alchemist\'s Lair';
+}
+
+body {
+    background-color: #282c34;
+    color: #61dafb;
+}
+
+button:hover {
+    background-color: #ff5722;
+}
